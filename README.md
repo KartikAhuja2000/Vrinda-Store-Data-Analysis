@@ -33,7 +33,7 @@ This chart helps in identifying the states with the highest sales contributions.
 - Others: 4%
 This visualization helps in understanding which channels are most effective in driving orders.
 
-6.Orders: Age vs Gender (Bottom Center):
+6. Orders: Age vs Gender (Bottom Center):
 - A bar chart showing the distribution of orders across different age groups and genders:
 - Adults: Men 23.29%, Women 52.39%
 - Seniors: Men 5.91%, Women 13.70%
