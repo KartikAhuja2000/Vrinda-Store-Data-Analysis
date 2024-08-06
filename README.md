@@ -48,7 +48,7 @@ This chart provides insights into the demographics of customers placing orders.
 - Refunded: 2%
 This visualization helps in understanding the overall success rate and issues in order fulfillment.
 
-8.Insights and Actionable Points:
+8. Insights and Actionable Points:
 - Monthly Trends: Identify peak sales months to plan marketing and inventory strategies.
 - Gender-Based Sales: Focus marketing efforts towards women, who account for a larger share of sales.
 - Top Performing States: Prioritize sales and distribution efforts in states with the highest sales.
